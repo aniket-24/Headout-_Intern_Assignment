@@ -31,6 +31,10 @@ async function getLine(filePath, m) {
   }
 }
 
+app.get("/", (req, res) => {
+  res.sendFile(__dirname + "/public/index.html");
+});
+
 app.post("/upload", upload.single("file"), async (req, res) => {
   try {
     if (!req.file) {
