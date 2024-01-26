@@ -4,15 +4,15 @@
 
 - Chrome local host :-
 
-![Alt text](image.png)
+<img width="822" alt="image-1" src="https://github.com/aniket-24/Headout_Intern_Assignment/assets/76562459/71c8c88a-a7fb-4410-a751-55367d540202">
 
 - Docker terminal :-
-
-![Alt text](image-1.png)
+  
+<img width="781" alt="image-2" src="https://github.com/aniket-24/Headout_Intern_Assignment/assets/76562459/efe33f72-51d4-40de-8dc6-5ee2b7c6e980">
 
 - Docker container :-
 
-![Alt text](image-2.png)
+<img width="783" alt="image-3" src="https://github.com/aniket-24/Headout_Intern_Assignment/assets/76562459/d056b990-eee0-43fd-8047-b5ad4fbc8187">
 
 ## Installation
 
